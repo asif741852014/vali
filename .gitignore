@@ -4,4 +4,4 @@
 *.exe
 *.iso
 *.bin
-
+.terraform/
