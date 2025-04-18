@@ -1,0 +1,7 @@
+# .gitignore
+*.zip
+*.tar.gz
+*.exe
+*.iso
+*.bin
+
